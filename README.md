@@ -45,9 +45,15 @@ Here's a sample of what the basic layout of the app should look like. Feel free 
 
 #### Main View
 
+![App Main](https://github.com/ap-java-ucvts/pset-10-skeleton/blob/master/images/mockup-main.png)
+
 ### Add View
 
+![App Add](https://github.com/ap-java-ucvts/pset-10-skeleton/blob/master/images/mockup-add.png)
+
 ### Remove View
+
+![App Remove](https://github.com/ap-java-ucvts/pset-10-skeleton/blob/master/images/mockup-remove.png)
 
 ### Selecting a Word
 
