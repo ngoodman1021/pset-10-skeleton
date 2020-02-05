@@ -28,7 +28,7 @@ git remote add origin git@github.com:YOUR-USERNAME/pset-10.git
 
 Read through the requirements and specifications below and get to work!
 
-## Overview
+## Requirements
 
 We've all been to the online dictionary by Merriam-Webster. Well, consider this a desktop version of that. The app will have a list of words, which users can search through. Selecting a word will show the user its definition(s), part(s) of speech, sample sentence(s), and synonyms.
 
@@ -105,7 +105,7 @@ If you submit your problem set at midnight (i.e., February 24, 2020, at 12:00am)
 
 * Your code **must** compile. Code that fails to meet this minimum requirement will not be accepted.
 * There must be **at least** 50 unique commits to your repository.
-* Your code must meet each requirement outlined in the *Overview* and *Requirements* sections.
+* Your code must meet each requirement outlined in the *Requirements* section.
 * Your code must adhere to the course style guidelines.
 
 Happy coding!
