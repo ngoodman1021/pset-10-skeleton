@@ -105,9 +105,9 @@ If you've never used the Gson library (which you probably haven't), [take a look
 
 Please read very carefully. Historically, most students lose points on problem sets for simply failing to read the instructions and requirements.
 
-* February 23, 2020, at 11:59pm.
+* March 1, 2020, at 11:59pm.
 
-If you submit your problem set at midnight (i.e., February 24, 2020, at 12:00am), it is considered **late**!
+If you submit your problem set at midnight (i.e., March 2, 2020, at 12:00am), it is considered **late**!
 
 ### Submission Requirements
 
