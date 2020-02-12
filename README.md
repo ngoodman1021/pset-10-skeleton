@@ -39,7 +39,7 @@ There are a few different ways to build GUIs in Java, and you're welcome to use 
 * Swing
 * JavaFX
 
-Oracle provides thorough [documentation and tutorials](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm) for both of these.
+Oracle provides thorough [documentation and tutorials](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm) for both of these. JavaFX can be a little tricky to setup in Eclipse, so here's [a video tutorial](https://www.youtube.com/watch?v=oVn6_2KuYbM) that a few of you have already found helpful.
 
 Here's a sample of what the basic layout of the app should look like. Feel free to make it your own and enhance this wireframe as needed.
 
