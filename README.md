@@ -83,13 +83,9 @@ Users may search for a specific word in the dictionary by typing the word into t
 
 For example, suppose the list contains `Apple`, `Application`, `Basket`, and `Cartwheel`. If the user types `app` into the textbox, the list should update itself in real time to display only `Apple` and `Application`. Searches should be case-insensitive.
 
-There are many built-in search fuctions in Java. Unfortunately, you aren't permitted to use any of them. Pick a search algorithm (linear or binary) and implement it yourself.
-
 ### Sorting the Dictionary
 
 There are two checkboxes to sort the dictionary in either ascending or descending order. Only one checkbox can be selected at a time. When a user selects `Asc`, the list should sort itself ascending. Likewise, when a user selects `Desc`, the list should sort itself descending.
-
-There are many built-in sorting fuctions in Java. Unfortunately, you aren't permitted to use any of them. Pick a sorting algorithm (selection, insertion, bubble, or merge) and implement it yourself.
 
 ### Data
 
